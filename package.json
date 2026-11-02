@@ -1,6 +1,6 @@
 {
   "name": "@dloizides/image-quantise",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Pure image colour reduction: OKLab k-means, Floyd-Steinberg dithering and snapping to any palette. Input is {data,width,height}. No DOM, no canvas, no React.",
   "keywords": [
     "image",
